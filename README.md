@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Muhammad Zaeem 👋
 
-<!--
-**Muhammadzaeem-official/Muhammadzaeem-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Chief Financial Officer | Accounting & Finance Specialist | Excel VBA Expert
 
-Here are some ideas to get you started:
+I help businesses gain financial clarity, automate workflows, and make smarter decisions through bookkeeping, tax management, KPI dashboards, and Excel VBA solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+
+✅ Financial Reporting & Analysis
+✅ Bookkeeping & Tax Compliance
+✅ KPI Dashboards & Data Visualization
+✅ Excel VBA Automation
+✅ Budgeting & Forecasting
+✅ Business Development & Operations Strategy
+
+### Why Work With Me?
+
+🚀 3+ Years of Experience
+📊 Data-Driven Decision Making
+⚡ Process Automation Expert
+💰 Focused on Profitability & Growth
+
+### Tech & Tools
+
+Excel VBA • Power BI • Financial Modeling • KPI Dashboards • Process Automation • Data Analysis
+
+📫 Open to consulting, freelance projects, and strategic finance opportunities.
